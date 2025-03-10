@@ -5,5 +5,9 @@ En este proyecto se hace una implementación de la estructura Pila(Stack) en el 
 
 - Requerimentos
 Tener el compilador de archivos C++ para su sistema operativo, en el caso de Windows: MinGW.
-Lo podra encontrar en el siguiente link: https://www.mingw-w64.org/downloads/
+Lo podra encontrar en el siguiente link: https://www.mingw-w64.org/downloads/. Tambien instalar las extensiones que requiera tu IDE de desarrollo.
 
+- Para ejcutar:
+   Puede usar su IDE de desarrollo o por cmd ubicandose en la carpeta donde se encuentra el archivo main, abriendo el cmd por supuesto y luego usar la sigueinte linea de codigo "g++ -o programa Main.cpp"
+  Esto creara un archivo .exe de programa el cual podra ser nombrado como se desee. Main.cpp es el m¿nombre del archivo donde se ecuentra el main respectivamente
+  
