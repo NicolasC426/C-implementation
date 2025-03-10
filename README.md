@@ -9,5 +9,5 @@ Lo podra encontrar en el siguiente link: https://www.mingw-w64.org/downloads/. T
 
 - Para ejcutar:
    Puede usar su IDE de desarrollo o por cmd ubicandose en la carpeta donde se encuentra el archivo main, abriendo el cmd por supuesto y luego usar la sigueinte linea de codigo "g++ -o programa Main.cpp"
-  Esto creara un archivo .exe de programa el cual podra ser nombrado como se desee. Main.cpp es el m¿nombre del archivo donde se ecuentra el main respectivamente
-  
+  Esto creara un archivo .exe de programa el cual podra ser nombrado como se desee. Main.cpp es el nombre del archivo donde se ecuentra el main respectivamente.
+  Luego poner el consola el nombre con cual se guardo y se ejecuta.
